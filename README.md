@@ -9,9 +9,8 @@ justification of your suggestion. Additionally, you are welcome to open Issues t
 about my justification for the way things are, or about how they work. However, I make no
 promises about timeline for responding.
 
-## Content Overview
+## Index
 
-* bash: Content related to the [Bash Shell](https://www.gnu.org/software/bash/)
-    * scripts: Content related to writing and running bash scripts
-    * references: Collection of references for bash behavior, patterns, and docs
-
+### [bash](https://github.com/WilliamJohns/utils/tree/main/bash): Content related to the [Bash Shell](https://www.gnu.org/software/bash/)
+* [scripts](https://github.com/WilliamJohns/utils/tree/main/bash/scripts): Content related to writing and running bash scripts
+* [references](https://github.com/WilliamJohns/utils/tree/main/bash/references): Collection of references for bash behavior, patterns, and docs
